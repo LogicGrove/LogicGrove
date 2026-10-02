@@ -1,29 +1,8 @@
 [Español](#espanol) | [English](#english)
 
-<!-- GUÍA DE EDICIÓN / EDITING GUIDE
-Este archivo es independiente: no necesita widgets, servicios externos ni imágenes.
-Puedes editar o eliminar cualquier lista o sección. Conserva los enlaces de arriba
-y las etiquetas <a id="..."> para que la navegación siga funcionando.
-Actualiza las dos versiones cuando cambies información.
-Los comentarios como este no se muestran en el perfil de GitHub.
-Para usarlo como README de perfil, súbelo a la raíz de un repositorio público
-con el mismo nombre que tu usuario de GitHub.
-
-This file is self-contained: no widgets, external services, or images are required.
-Edit or remove any list or section. Keep the navigation links above and the
-<a id="..."> tags so language navigation keeps working.
-Update both versions whenever you change your information.
-Comments like this are hidden when GitHub displays the README.
-To use it as a profile README, place it at the root of a public repository
-whose name matches your GitHub username.
--->
-
 <a id="espanol"></a>
 
 # Hola, soy Manu 👋
-
-<!-- EDITA: cambia esta introducción para que suene más a ti. -->
-Me encanta la programación y la tecnología. Me interesa entender cómo funcionan las cosas, experimentar con ellas y convertir ideas en proyectos propios: desde aplicaciones y juegos hasta PCs y proyectos DIY.
 
 ## Mis intereses
 
@@ -73,18 +52,7 @@ Ajústala a lo que estés aprendiendo de verdad en este momento. -->
 - Fundamentos de IA/ML y su relación con el ajedrez en Jade.
 - Creación de juegos y mecánicas con Lua en Roblox Studio.
 - Cómo configurar y optimizar PCs con Windows.
-
-## Contacto
-
-<!-- EDITA: sustituye los campos en MAYÚSCULAS o elimina las líneas que no quieras.
-Los campos están como texto para evitar enlaces rotos mientras los completas.
-Publica únicamente los datos de contacto que quieras hacer públicos. -->
-- **GitHub:** TU_USUARIO_DE_GITHUB
-- **Correo:** TU_CORREO_PUBLICO
-- **Web o portfolio:** URL_DE_TU_WEB
-
----
-
+.
 <a id="english"></a>
 
 # Hi, I'm Manu 👋
@@ -138,14 +106,4 @@ If something is still an idea, say so; dates are optional. -->
 Adjust it to reflect what you are actually learning at the moment. -->
 - Android development with Kotlin and Android Studio.
 - AI/ML fundamentals and their connection to chess in Jade.
-- Building games and mechanics with Lua in Roblox Studio.
 - Configuring and optimizing Windows PCs.
-
-## Contact
-
-<!-- EDIT: replace the UPPERCASE fields or remove any lines you do not want.
-Fields are plain text to avoid broken links before you fill them in.
-Only publish contact details you want to make public. -->
-- **GitHub:** YOUR_GITHUB_USERNAME
-- **Email:** YOUR_PUBLIC_EMAIL
-- **Website or portfolio:** YOUR_WEBSITE_URL
