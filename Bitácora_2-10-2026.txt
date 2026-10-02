@@ -1,0 +1,3 @@
+he empezado en chatgpt un nuevo proyecto para google colab/local que tiene una ia a la que tu le das imagenes, luego se activa la webcam y la ia analiza el lugar, si ve objetos parecidos a las imagenes que has puesto te avisa
+No he aprendido abolutamente nada xD
+xD
