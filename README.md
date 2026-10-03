@@ -18,7 +18,7 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <h2 id="jade">01 · Jade</h2>
 <p><sub>AJEDREZ E INTELIGENCIA ARTIFICIAL</sub></p>
 <br>
-<p><img src="assets/jade.svg" alt="01 · Jade · portada ilustrada" width="960"></p>
+<p><a href="https://github.com/LogicGrove/jade-chess-ai"><img src="assets/jade.png" alt="01 · Jade · caballo de jade" width="960"></a></p>
 <br>
 <p>Un rival de ajedrez que busca jugar de forma más humana. Combino <b>Stockfish</b>, partidas reales de <b>Lichess</b> y una <b>red neuronal compacta</b> para explorar cómo elegimos nuestros movimientos.</p>
 <p><code>Python</code> &nbsp; <code>PyTorch</code> &nbsp; <code>Stockfish</code> &nbsp; <code>Colab</code></p>
@@ -26,7 +26,7 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <!-- IMAGEN PROPIA: sube assets/jade-captura.png y activa esta línea.
 <p><img src="assets/jade-captura.png" alt="01 · Jade · captura" width="860"></p>
 -->
-<!-- ENLACE AL REPOSITORIO: añade aquí la URL real cuando esté publicado. -->
+<!-- El banner de Jade enlaza al repositorio. -->
 
 <br>
 <br>
@@ -36,7 +36,7 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <h2 id="worthy">02 · Worthy</h2>
 <p><sub>MI LABORATORIO ANDROID</sub></p>
 <br>
-<p><img src="assets/worthy.svg" alt="02 · Worthy · portada ilustrada" width="960"></p>
+<p><img src="assets/worthy.png" alt="02 · Worthy · moneda dorada con W" width="960"></p>
 <br>
 <p>Una aplicación propia con la que aprendo a diseñar pantallas, organizar el código y cuidar la experiencia de uso. Me interesa que cada función se entienda y sea cómoda de utilizar.</p>
 <p><code>Kotlin</code> &nbsp; <code>Android Studio</code></p>
