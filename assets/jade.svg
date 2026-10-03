@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 138" role="img" aria-label="Jade: chess and AI">
+<title>Jade: chess and AI</title>
+
+<rect x="1" y="1" width="958" height="136" rx="14" fill="#13241f" stroke="#29453a"/>
+<text x="32" y="48" fill="#8ccda5" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">01 / CHESS + AI</text>
+<text x="30" y="100" fill="#eff6ef" font-family="Arial,sans-serif" font-size="42" font-weight="700">Jade</text>
+<g transform="translate(769 23)"><rect width="92" height="92" rx="7" fill="#294737"/>
+<path d="M0 23H92M0 46H92M0 69H92M23 0V92M46 0V92M69 0V92" stroke="#54775f" stroke-width="1"/>
+<rect x="46" y="23" width="23" height="23" fill="#a9d9ae"/>
+<circle cx="35" cy="58" r="5" fill="#bedcc0"/>
+<path d="M35 58L58 35" stroke="#a9d9ae" stroke-width="2" stroke-dasharray="3 3"/>
+</g>
+</svg>

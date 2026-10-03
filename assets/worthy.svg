@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 138" role="img" aria-label="Worthy: Android app">
+<title>Worthy: Android app</title>
+
+<rect x="1" y="1" width="958" height="136" rx="14" fill="#252218" stroke="#4a4230"/>
+<text x="32" y="48" fill="#dbc592" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">02 / ANDROID APP</text>
+<text x="30" y="100" fill="#f8f1e2" font-family="Arial,sans-serif" font-size="42" font-weight="700">Worthy</text>
+<rect x="782" y="16" width="62" height="106" rx="12" fill="none" stroke="#dbc592" stroke-width="3"/>
+<path d="M802 26H824" stroke="#dbc592" stroke-width="3" stroke-linecap="round"/>
+<rect x="791" y="43" width="44" height="30" rx="5" fill="#685d3e"/>
+<path d="M795 87H830M795 97H817" stroke="#a2936d" stroke-width="4" stroke-linecap="round"/>
+
+</svg>

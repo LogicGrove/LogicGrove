@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 226" role="img" aria-label="LogicGrove: code, learn, build">
+<title>LogicGrove: code, learn, build</title>
+
+<rect x="1" y="1" width="958" height="224" rx="20" fill="#10191c" stroke="#263a3a"/>
+<circle cx="790" cy="113" r="66" fill="#172d2a"/>
+<circle cx="790" cy="113" r="86" fill="none" stroke="#243d37" stroke-dasharray="3 10"/>
+<path d="M790 150V104" fill="none" stroke="#a4e7b8" stroke-width="6" stroke-linecap="round"/>
+<path d="M790 116C758 115 746 91 751 79C778 77 795 91 790 116Z" fill="#83ce9b"/>
+<path d="M790 105C790 78 809 66 831 71C834 95 815 107 790 105Z" fill="#c0efac"/>
+<path d="M770 151H810" fill="none" stroke="#4e7f65" stroke-width="5" stroke-linecap="round"/>
+<text x="52" y="59" fill="#89b39b" font-family="Arial,sans-serif" font-size="12" letter-spacing="4">CODE / LEARN / BUILD</text>
+<text x="48" y="126" fill="#eef4ed" font-family="Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-2">LogicGrove</text>
+<text x="52" y="168" fill="#a7b9b1" font-family="Arial,sans-serif" font-size="17">AI · APPS · GAMES · HARDWARE</text>
+
+</svg>
