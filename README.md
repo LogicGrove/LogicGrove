@@ -5,7 +5,7 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <p align="center"><img src="assets/logicgrove.svg" alt="LogicGrove · Code / Learn / Build" width="960"></p>
 <br>
 <p align="center"><b>Español</b> &nbsp; / &nbsp; <a href="https://github.com/LogicGrove/LogicGrove/blob/main/README.en.md">English</a></p>
-<p align="center"><a href="#jade">Jade</a> &nbsp;·&nbsp; <a href="#worthy">Worthy</a> &nbsp;·&nbsp; <a href="#juegos">Juegos</a> &nbsp;·&nbsp; <a href="#herramientas">Herramientas</a></p>
+<p align="center"><a href="#01--jade">Jade</a> &nbsp;·&nbsp; <a href="#02--worthy">Worthy</a> &nbsp;·&nbsp; <a href="#03--juegos-y-prototipos">Juegos</a> &nbsp;·&nbsp; <a href="#mi-caja-de-herramientas">Herramientas</a></p>
 <br>
 <p align="center">Construyo proyectos para entender cómo funcionan las cosas.<br>IA, aplicaciones, juegos y alguna idea que acaba fuera de la pantalla.</p>
 <p align="center"><sub>Imaginar &nbsp;→&nbsp; Construir &nbsp;→&nbsp; Probar &nbsp;→&nbsp; Mejorar</sub></p>
