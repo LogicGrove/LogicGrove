@@ -34,17 +34,13 @@ The banners are decorative illustrations, not application screenshots.
 <br>
 
 <h2 id="worthy">02 · Worthy</h2>
-<p><sub>MY ANDROID WORKBENCH</sub></p>
+<p><sub>SAVE FOR THE THINGS YOU WANT</sub></p>
 <br>
-<p><img src="assets/worthy.png" alt="02 · Worthy · gold coin with W" width="960"></p>
+<p><a href="https://github.com/LogicGrove/worthy-android"><img src="assets/worthy-profile-banner.png" alt="02 · Worthy · gold coin with W" width="960"></a></p>
 <br>
-<p>An app of my own where I learn about screens, code structure and user experience. I want each feature to be understandable and comfortable to use.</p>
-<p><code>Kotlin</code> &nbsp; <code>Android Studio</code></p>
-<p><sub>A project in development. Learning one screen and one feature at a time.</sub></p>
-<!-- YOUR SCREENSHOT: upload assets/worthy-captura.png and enable this line.
-<p><img src="assets/worthy-captura.png" alt="02 · Worthy · screenshot" width="860"></p>
--->
-<!-- REPOSITORY LINK: add the actual URL here once published. -->
+<p>An Android app that turns the things you want to buy into savings goals. Add a product, record contributions, and see how much remains until you reach your target.</p>
+<p><code>Kotlin</code> &nbsp; <code>Jetpack Compose</code> &nbsp; <code>Material 3</code> &nbsp; <code>Room</code></p>
+<p><sub>Goals in a deck of cards, personalization, and data stored on your device. <a href="https://github.com/LogicGrove/worthy-android/releases/tag/v1.0">Download Worthy 1.0</a>.</sub></p>
 
 <br>
 <br>
