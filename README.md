@@ -34,17 +34,13 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <br>
 
 <h2 id="worthy">02 · Worthy</h2>
-<p><sub>MI LABORATORIO ANDROID</sub></p>
+<p><sub>AHORRA PARA LO QUE QUIERES CONSEGUIR</sub></p>
 <br>
-<p><img src="assets/worthy.png" alt="02 · Worthy · moneda dorada con W" width="960"></p>
+<p><a href="https://github.com/LogicGrove/worthy-android"><img src="assets/worthy-profile-banner.png" alt="02 · Worthy · moneda dorada con W" width="960"></a></p>
 <br>
-<p>Una aplicación propia con la que aprendo a diseñar pantallas, organizar el código y cuidar la experiencia de uso. Me interesa que cada función se entienda y sea cómoda de utilizar.</p>
-<p><code>Kotlin</code> &nbsp; <code>Android Studio</code></p>
-<p><sub>Proyecto en desarrollo. Aprendiendo una pantalla y una función cada vez.</sub></p>
-<!-- IMAGEN PROPIA: sube assets/worthy-captura.png y activa esta línea.
-<p><img src="assets/worthy-captura.png" alt="02 · Worthy · captura" width="860"></p>
--->
-<!-- ENLACE AL REPOSITORIO: añade aquí la URL real cuando esté publicado. -->
+<p>Una app Android que convierte las cosas que quieres comprar en objetivos de ahorro. Añade un producto, registra tus aportaciones y consulta cuánto te falta para llegar a la meta.</p>
+<p><code>Kotlin</code> &nbsp; <code>Jetpack Compose</code> &nbsp; <code>Material 3</code> &nbsp; <code>Room</code></p>
+<p><sub>Objetivos en una baraja de tarjetas, personalización y datos guardados en el dispositivo. <a href="https://github.com/LogicGrove/worthy-android/releases/tag/v1.0">Descargar Worthy 1.0</a>.</sub></p>
 
 <br>
 <br>
