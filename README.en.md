@@ -5,7 +5,7 @@ The banners are decorative illustrations, not application screenshots.
 <p align="center"><img src="assets/logicgrove.svg" alt="LogicGrove · Code / Learn / Build" width="960"></p>
 <br>
 <p align="center"><a href="https://github.com/LogicGrove/LogicGrove/blob/main/README.md">Español</a> &nbsp; / &nbsp; <b>English</b></p>
-<p align="center"><a href="#01--jade">Jade</a> &nbsp;·&nbsp; <a href="#02--worthy">Worthy</a> &nbsp;·&nbsp; <a href="#03--games-and-prototypes">Games</a> &nbsp;·&nbsp; <a href="#my-toolbox">Tools</a></p>
+<p align="center"><a href="#01--jade">Jade</a> &nbsp;·&nbsp; <a href="#02--worthy">Worthy</a> &nbsp;·&nbsp; <a href="#03--nexo-chess">Nexo Chess</a> &nbsp;·&nbsp; <a href="#04--games-and-prototypes">Games</a> &nbsp;·&nbsp; <a href="#my-toolbox">Tools</a></p>
 <br>
 <p align="center">I build projects to understand how things work.<br>AI, apps, games and ideas that sometimes go beyond the screen.</p>
 <p align="center"><sub>Imagine &nbsp;→&nbsp; Build &nbsp;→&nbsp; Test &nbsp;→&nbsp; Improve</sub></p>
@@ -47,16 +47,30 @@ The banners are decorative illustrations, not application screenshots.
 <hr>
 <br>
 
-<h2 id="games">03 · Games and prototypes</h2>
+<h2 id="nexochess">03 · Nexo Chess</h2>
+<p><sub>CHESS BETWEEN PEOPLE ON YOUR LOCAL NETWORK</sub></p>
+<br>
+<p><a href="https://github.com/LogicGrove/nexochess"><img src="assets/nexochess-banner.png" alt="03 · Nexo Chess · two chess kings" width="960"></a></p>
+<br>
+<p>A free, portable app for playing chess with another person on the same Wi-Fi or local network. The host opens the app on Windows, and everyone else joins from a browser on a PC, phone, or tablet.</p>
+<p><code>Go</code> &nbsp; <code>Windows</code> &nbsp; <code>LAN</code> &nbsp; <code>PGN</code></p>
+<p><sub>Multiple tables, spectators, move history, and PGN export. Version 1.0: games between people, with no clock or AI. <a href="https://github.com/LogicGrove/nexochess/releases/tag/v1.0.0">Download Nexo Chess 1.0</a>.</sub></p>
+
+<br>
+<br>
+<hr>
+<br>
+
+<h2 id="games">04 · Games and prototypes</h2>
 <p><sub>IDEAS YOU CAN PLAY</sub></p>
 <br>
-<p><img src="assets/games.svg" alt="03 · Games and prototypes · illustrated banner" width="960"></p>
+<p><img src="assets/games.svg" alt="04 · Games and prototypes · illustrated banner" width="960"></p>
 <br>
 <p>I experiment with maps, animations, interfaces and mechanics in <b>Roblox Studio</b>. I explore how controls, movement and environments change the experience of playing.</p>
 <p><code>Roblox Studio</code> &nbsp; <code>Luau</code></p>
 <p><sub>A space for small experiments and discovering which ideas are worth developing.</sub></p>
 <!-- YOUR SCREENSHOT: upload assets/juegos-captura.png and enable this line.
-<p><img src="assets/juegos-captura.png" alt="03 · Games and prototypes · screenshot" width="860"></p>
+<p><img src="assets/juegos-captura.png" alt="04 · Games and prototypes · screenshot" width="860"></p>
 -->
 <!-- REPOSITORY LINK: add the actual URL here once published. -->
 
@@ -68,7 +82,7 @@ The banners are decorative illustrations, not application screenshots.
 <h2 id="tools">My toolbox</h2>
 <br>
 <p><b>Code and data</b></p>
-<p><code>Python</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Luau</code> &nbsp; <code>NumPy</code> &nbsp; <code>SQLite</code> &nbsp; <code>Parquet</code></p>
+<p><code>Python</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Go</code> &nbsp; <code>Luau</code> &nbsp; <code>NumPy</code> &nbsp; <code>SQLite</code> &nbsp; <code>Parquet</code></p>
 <br>
 <p><b>Beyond code</b></p>
 <p>PCs &nbsp;·&nbsp; 3D printing &nbsp;·&nbsp; Audio &nbsp;·&nbsp; Privacy</p>

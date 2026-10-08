@@ -5,7 +5,7 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <p align="center"><img src="assets/logicgrove.svg" alt="LogicGrove · Code / Learn / Build" width="960"></p>
 <br>
 <p align="center"><b>Español</b> &nbsp; / &nbsp; <a href="https://github.com/LogicGrove/LogicGrove/blob/main/README.en.md">English</a></p>
-<p align="center"><a href="#01--jade">Jade</a> &nbsp;·&nbsp; <a href="#02--worthy">Worthy</a> &nbsp;·&nbsp; <a href="#03--juegos-y-prototipos">Juegos</a> &nbsp;·&nbsp; <a href="#mi-caja-de-herramientas">Herramientas</a></p>
+<p align="center"><a href="#01--jade">Jade</a> &nbsp;·&nbsp; <a href="#02--worthy">Worthy</a> &nbsp;·&nbsp; <a href="#03--nexo-chess">Nexo Chess</a> &nbsp;·&nbsp; <a href="#04--juegos-y-prototipos">Juegos</a> &nbsp;·&nbsp; <a href="#mi-caja-de-herramientas">Herramientas</a></p>
 <br>
 <p align="center">Construyo proyectos para entender cómo funcionan las cosas.<br>IA, aplicaciones, juegos y alguna idea que acaba fuera de la pantalla.</p>
 <p align="center"><sub>Imaginar &nbsp;→&nbsp; Construir &nbsp;→&nbsp; Probar &nbsp;→&nbsp; Mejorar</sub></p>
@@ -47,16 +47,30 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <hr>
 <br>
 
-<h2 id="juegos">03 · Juegos y prototipos</h2>
+<h2 id="nexochess">03 · Nexo Chess</h2>
+<p><sub>AJEDREZ ENTRE PERSONAS EN TU RED LOCAL</sub></p>
+<br>
+<p><a href="https://github.com/LogicGrove/nexochess"><img src="assets/nexochess-banner.png" alt="03 · Nexo Chess · dos reyes de ajedrez" width="960"></a></p>
+<br>
+<p>Una aplicación gratuita y portátil para jugar al ajedrez con otra persona en el mismo Wi-Fi o red local. El anfitrión abre la app en Windows y el resto entra desde el navegador de un PC, móvil o tableta.</p>
+<p><code>Go</code> &nbsp; <code>Windows</code> &nbsp; <code>LAN</code> &nbsp; <code>PGN</code></p>
+<p><sub>Varias mesas, espectadores, historial y exportación PGN. Versión 1.0: partidas entre personas, sin reloj ni IA. <a href="https://github.com/LogicGrove/nexochess/releases/tag/v1.0.0">Descargar Nexo Chess 1.0</a>.</sub></p>
+
+<br>
+<br>
+<hr>
+<br>
+
+<h2 id="juegos">04 · Juegos y prototipos</h2>
 <p><sub>IDEAS QUE SE PUEDEN JUGAR</sub></p>
 <br>
-<p><img src="assets/games.svg" alt="03 · Juegos y prototipos · portada ilustrada" width="960"></p>
+<p><img src="assets/games.svg" alt="04 · Juegos y prototipos · portada ilustrada" width="960"></p>
 <br>
 <p>Experimento con mapas, animaciones, interfaces y mecánicas en <b>Roblox Studio</b>. Pruebo cómo cambia una partida al ajustar los controles, el movimiento o el entorno.</p>
 <p><code>Roblox Studio</code> &nbsp; <code>Luau</code></p>
 <p><sub>Un espacio para probar ideas pequeñas y ver cuáles merece la pena desarrollar.</sub></p>
 <!-- IMAGEN PROPIA: sube assets/juegos-captura.png y activa esta línea.
-<p><img src="assets/juegos-captura.png" alt="03 · Juegos y prototipos · captura" width="860"></p>
+<p><img src="assets/juegos-captura.png" alt="04 · Juegos y prototipos · captura" width="860"></p>
 -->
 <!-- ENLACE AL REPOSITORIO: añade aquí la URL real cuando esté publicado. -->
 
@@ -68,7 +82,7 @@ Las portadas son ilustraciones decorativas, no capturas de aplicaciones.
 <h2 id="herramientas">Mi caja de herramientas</h2>
 <br>
 <p><b>Código y datos</b></p>
-<p><code>Python</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Luau</code> &nbsp; <code>NumPy</code> &nbsp; <code>SQLite</code> &nbsp; <code>Parquet</code></p>
+<p><code>Python</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Go</code> &nbsp; <code>Luau</code> &nbsp; <code>NumPy</code> &nbsp; <code>SQLite</code> &nbsp; <code>Parquet</code></p>
 <br>
 <p><b>También fuera del código</b></p>
 <p>PCs &nbsp;·&nbsp; Impresión 3D &nbsp;·&nbsp; Audio &nbsp;·&nbsp; Privacidad</p>
