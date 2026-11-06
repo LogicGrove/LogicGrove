@@ -1,0 +1,2 @@
+hoy hemos corrido opencode y python por git bash.
+He hecho una simple app con python
